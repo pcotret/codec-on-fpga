@@ -1,0 +1,6 @@
+[submodule "vga-demos/projf-explore"]
+	path = vga-demos/projf-explore
+	url = https://github.com/pcotret/projf-explore
+[submodule "ddr-demos/zedboard-axi-dma"]
+	path = ddr-demos/zedboard-axi-dma
+	url = https://github.com/fpgadeveloper/zedboard-axi-dma
